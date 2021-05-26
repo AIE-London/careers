@@ -9,9 +9,6 @@ body {
   background-position: center center;
   background-repeat: no-repeat;
   font-family: 'Poppins', sans-serif;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
 }
 
 header {
@@ -41,7 +38,7 @@ nav ul li {
 .main-content {
   max-width: 1200px;
   width: 90%;
-  margin: 0 auto;
+  margin: 2rem auto;
   background: white;
   border-radius: 5px;
   padding: 2rem 3rem;
