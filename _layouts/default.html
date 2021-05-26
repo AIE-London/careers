@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <meta name="msapplication-TileColor" content="#fff">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+</head>
+  <body>
+    <header class="page-header" role="banner">
+      <img src="https://newsletter.appliedinnovationexchange.com/assets/aie-logo.png" alt="Capgemini Applied Innovation Exchange" />
+      <nav>
+        <ul>
+          <li><a href="https://medium.com/applied-innovation-exchange" target="_blank">Our Blog</a></li>
+          <li><a href="https://www.capgemini.com/gb-en/service/applied-innovation-exchange/" target="_blank">Our Blog</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
+  </body>
+</html>
