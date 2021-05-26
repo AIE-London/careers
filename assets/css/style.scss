@@ -1,0 +1,41 @@
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  min-height: 100vh;
+  background-image: url('https://newsletter.appliedinnovationexchange.com//assets/page-background/background-optimised.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  font-family: 'Poppins', sans-serif;
+}
+
+header {
+  display: flex;
+  max-width: 1200px;
+  width: 90%;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header > img {
+  height: 80px;
+  width: auto;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav ul li {
+  margin: 0 1.5em;
+}
+
+.main-content {
+  max-width: 1200px;
+  width: 90%;
+  margin: 0 auto;
+}
