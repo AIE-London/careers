@@ -53,3 +53,41 @@ nav ul li a {
   color: #000;
   font-weight: bold;
 }
+
+.mobile-only {
+  display: none;
+}
+
+footer {
+  width: 100%;
+  background: #1a2127;
+  padding: 2rem 0;
+}
+
+footer ul {
+  max-width: 1200px;
+  width: 90%;
+  margin: 2rem auto;
+  padding: 0 2rem;
+  list-style: none;
+}
+
+footer ul li {
+  margin: 1.5rem 0;
+}
+
+footer ul li a {
+  color: #fff;
+}
+
+@media screen and (max-width: 700px) {
+  .main-content {
+    font-size: 0.9rem;
+  }
+  .mobile-only {
+    display: block;
+  }
+  .desktop-only {
+    display: none;
+  }
+}
