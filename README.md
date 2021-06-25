@@ -15,4 +15,4 @@ We do amazing work, with amazing clients and we'd love to grow our team, so if t
 
 #### I'd love to learn more
 
-If you'd like to hear more about what we do, please be sure to check out [our Medium Blog](https://medium.com/applied-innovation-exchange) to read about some of our success stories.
+If you'd like to hear more about what we do, please be sure to check out [our Medium Blog](https://blog.appliedinnovationexchange.com/) to read about some of our success stories.
