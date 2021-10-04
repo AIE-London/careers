@@ -4,13 +4,15 @@ We are Capgemini's London Applied Innovation Exchange, and we'd love to hear fro
 
 Our team brings together consultants, designers, technologists, start-ups and more to move from problem statements to business outcomes. Leveraging emerging technology, cross industry experience, disruptive business models and our ecosystem, we apply innovation in as little to 2 weeks, through to delivering a new venture to market in 4 months.
 
+We're the team that is [harnessing AI to make speech therapy more accessible](https://blog.appliedinnovationexchange.com/applied-innovation-for-good-making-speech-therapy-more-accessible-with-ai-167208c5ea5e), [building digital experiences to raise money for vulnerable children with Action for Children](https://blog.appliedinnovationexchange.com/applied-innovation-for-good-raising-money-for-vulnerable-children-with-action-for-children-6e88d5916871), [building a retail store of tomorrow in Shoreditch, London](https://www.youtube.com/watch?v=YWc9Pp7vW8U) and so much more that we can't share right now.
+
 We do amazing work, with amazing clients and we'd love to grow our team, so if this sounds like it'd be perfect for you, please consider applying to our open positions.
 
 ### Open Positions
 
- - [Senior Experience Designer (London)](https://www.linkedin.com/jobs/view/2686239377)
- - [Senior Emerging Technology Engineer (London)](https://www.linkedin.com/jobs/view/full-stack-javascript-senior-emerging-tech-engineer-at-capgemini-2560916693)
- - [Senior Full-Stack JavaScript Engineer (London)](https://www.linkedin.com/jobs/view/full-stack-javascript-senior-emerging-tech-engineer-at-capgemini-2560916693)
+ - [Senior UX Experience Designer (London)](https://jobs.capgemini.com/gb-en/job/London-Senior-User-Experience-Consultant/700153801/?locale=en_US)
+ - [Senior Emerging Technology Engineer (London)](https://www.capgemini.com/jobs/full-stack-javascript-senior-emerging-tech-engineer/)
+ - [Senior Full-Stack JavaScript Engineer (London)](https://www.capgemini.com/jobs/full-stack-javascript-senior-emerging-tech-engineer/)
 
 
 #### I'd love to learn more
