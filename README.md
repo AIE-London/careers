@@ -11,8 +11,7 @@ We do amazing work, with amazing clients and we'd love to grow our team, so if t
 ### Open Positions
 
  - [Senior UX Experience Designer (London)](https://jobs.capgemini.com/gb-en/job/London-Senior-User-Experience-Consultant/700153801/?locale=en_US)
- - [Senior Emerging Technology Engineer (London)](https://www.capgemini.com/jobs/full-stack-javascript-senior-emerging-tech-engineer/)
- - [Senior Full-Stack JavaScript Engineer (London)](https://www.capgemini.com/jobs/full-stack-javascript-senior-emerging-tech-engineer/)
+ - [Senior Full-Stack Emerging Technology Engineer (London)](https://www.capgemini.com/jobs/full-stack-javascript-senior-emerging-tech-engineer/)
 
 
 #### I'd love to learn more
