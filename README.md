@@ -10,8 +10,7 @@ We do amazing work, with amazing clients and we'd love to grow our team, so if t
 
 ### Open Positions
 
- - [Innovation Consultant (London)](https://jobs.capgemini.com/gb-en/job/London-Innovation-Consultant/960453101/)
- - [Junior Emerging Technology Engineer (London)](https://jobs.capgemini.com/gb-en/job/London-Junior-Emerging-Technology-Engineer/891496401/)
+ - [Innovation Consultant (London)](https://jobs.capgemini.com/job-invite/1718171/)
 
 
 #### I'd love to learn more
