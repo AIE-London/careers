@@ -10,7 +10,7 @@ We do amazing work, with amazing clients and we'd love to grow our team, so if t
 
 ### Open Positions
 
- - [Innovation Consultant (London)](https://jobs.capgemini.com/job-invite/1718171/)
+ - [Innovation Consultant (London)](https://www.capgemini.com/gb-en/jobs/_EuMn44BbOa51rAnmrbF/aie-innovation-consultant/)
 
 
 #### I'd love to learn more
