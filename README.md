@@ -11,7 +11,7 @@ We do amazing work, with amazing clients and we'd love to grow our team, so if t
 ### Open Positions
 
  - [Innovation Consultant (London)](https://www.capgemini.com/gb-en/jobs/_EuMn44BbOa51rAnmrbF/aie-innovation-consultant/)
- - [Senior Innovation Experience Design(London)](https://careers.capgemini.com/job/London-Senior-Innovation-Experience-Design/1151432101/)
+ - [Senior Innovation Experience Design (London)](https://careers.capgemini.com/job/London-Senior-Innovation-Experience-Design/1151432101/)
 
 
 #### I'd love to learn more
